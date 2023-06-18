@@ -1,0 +1,11 @@
+# Day 03 - Assignment (17 Jun 2023 Sat)
+
+1. Write a Java program to print the ASCII code (in integers) for each of the Alphabets (A-Z, and a-z)
+
+2. Write a Java program with a Swith but not having a default statement. Share your observations.
+
+3. Write a Java Program to compute the total and average of 3 different marks of a Student by taking the inputs in two different flavors.
+	a. Pass the inputs from the Command Line Argument (All at once)
+	b. Pass the input via Keyboard (Scanner class) (One at a time)
+
+Print all the inputs obtained and also the computed output (Total and Average)
