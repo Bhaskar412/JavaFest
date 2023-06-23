@@ -1,0 +1,11 @@
+* Assignments - Practice a few other String API methods 
+                - contains()
+		- startsWith(char)
+		- endsWith(char)
+		- equals(String)
+		- equalsIgnoreCase(String)
+		- trim()
+		- split(regex)
+		- toUpperCase()
+		- toLowerCase()
+		- replace(oldChar, newChar)
