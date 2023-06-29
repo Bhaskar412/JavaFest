@@ -1,0 +1,4 @@
+Today's assignment (06/27):
+
+1. Build a program that converts a decimal number to binary, octal, or hexadecimal representation. The user should enter a decimal number, and the program should display the equivalent representation in the desired base.
+2. Guessing Game: Create a program where the computer generates a random number, and the user has to guess it. The program provides hints like "too high" or "too low" until the user guesses the correct number.
