@@ -1,0 +1,11 @@
+Topics covered (28 Jun 2023 Wednesday)
+
+* Revision of Instantiation of Objects, this pointer, toString and hashCode() methods
+* A gentle deep dive of java.lang.Object and the speciality of it being a default super class of every Object, with a Demo (SampleClass, SampleSubClass)
+* Deep dive of Packages in Java, with the real time examples and visual illustration of the different packages available in Java (gentle intro)
+* Deep dive of toString() method and its importance to have a meaningful representation
+* Deep dive of hashCode() method and Integer.toHexString() - used in the default toString() method
+* Constructor, its purpose and significance, difference from the other/regular methods
+* Constructor Overloading or the Parameterized Constructors
+* Objects with Collections Demo - Creating a List of Student Objects, adding them all to an ArrayList, toString() method of ArrayList class (which indeed calls the toString() of AbstractList -> AbstractCollection which has the implementation), printing each element of a Collection using a foreach loop for a legibility.
+* Assignment : Write a Java Program to check and add a Object before adding it into a Collection by writing an utility method that will check the most significant properties of an Object with which it can determine whether an object with the same properties already exists in the Collection or not. Only if there is no duplicate, we will add that element into the Collection (ArrayList), else that method will print an Error message stating that this object already exists in the Collection.
