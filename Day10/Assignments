@@ -1,0 +1,7 @@
+ Assignment today (03/07) Mon:
+
+1.Write a Java Program to print whether a given number is prime or not , and execute this logic for the number range 1 to 30. Also print all the prime numbers at once using an Array. Make the number range configurable - for an User Input
+
+2.Write a Java program to find a longest substring in a given Sentence. For example, in this sentence, “Write a Java program to find a longest substring in a given Sentence” — the terms longest and sentence are the longest substrings
+
+3.Write a Java program (1) to count the number of occurrences of a character in a word. Example, “Hello”, H comes 1 time, e comes 1 times, l comes 2 times, o comes 1 time. (2) Also, print the number of occurrences of a word in a sentence. Ex. I like to read about Java and also practice some Java Programs everyday. => The word Java comes 2 times, and rest of the other words come only once.
