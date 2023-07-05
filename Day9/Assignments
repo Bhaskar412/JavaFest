@@ -1,0 +1,7 @@
+Assignment Questions for yesterday's session (01/07/2023) :
+
+1. Try to remove using the 'this' keyword while assigning value to a variable in setter methods, i.e. instead of using this.value = value, if we use value = value, what will happen. Share your observations.
+
+2. If you don't specify any access specifier for a static variable, what will be the default access specifier, write a program to verify this and share your observations.
+
+3. Why do we have to create a remote repository first but not at the last step, from the central repository.
